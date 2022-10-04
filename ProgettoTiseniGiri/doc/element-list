@@ -1,0 +1,11 @@
+com.TiseniGiri.ProgettoTiseniGiri
+com.TiseniGiri.ProgettoTiseniGiri.Controller
+com.TiseniGiri.ProgettoTiseniGiri.Exceptions
+com.TiseniGiri.ProgettoTiseniGiri.Exceptions.ExceptionHandler
+com.TiseniGiri.ProgettoTiseniGiri.Filter
+com.TiseniGiri.ProgettoTiseniGiri.Filter.InterfacesAndAbstractClasses
+com.TiseniGiri.ProgettoTiseniGiri.Model
+com.TiseniGiri.ProgettoTiseniGiri.Services
+com.TiseniGiri.ProgettoTiseniGiri.Stats
+com.TiseniGiri.ProgettoTiseniGiri.Stats.Interfaces
+com.TiseniGiri.ProgettoTiseniGiri.Utility
